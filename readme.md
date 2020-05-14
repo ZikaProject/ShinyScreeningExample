@@ -8,4 +8,6 @@ https://zika.ispm.unibe.ch/assets/data/pub/screening_demo/
 
 Please cite our website, or other relevant output of ours when using this code.
 
-contact: michel.counotte[at]ispm.unibe.ch
+**Contact:** michel.counotte[at]ispm.unibe.ch
+
+**License:** GNU GPL 3.0 https://www.gnu.org/licenses/gpl-3.0.html
